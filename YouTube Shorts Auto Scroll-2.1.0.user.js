@@ -25,8 +25,8 @@
 // @license      MIT
 // @homepageURL  https://github.com/PsinaDev/youtube-shorts-autoscroll
 // @supportURL   https://github.com/PsinaDev/youtube-shorts-autoscroll/issues
-// @updateURL    https://github.com/PsinaDev/youtube-shorts-autoscroll/raw/main/youtube-shorts-autoscroll.user.js
-// @downloadURL  https://github.com/PsinaDev/youtube-shorts-autoscroll/raw/main/youtube-shorts-autoscroll.user.js
+// @updateURL    https://github.com/PsinaDev/youtube-shorts-autoscroll/raw/refs/heads/main/youtube-shorts-autoscroll.user.js
+// @downloadURL  https://github.com/PsinaDev/youtube-shorts-autoscroll/raw/refs/heads/main/YouTube%20Shorts%20Auto%20Scroll-2.1.0.user.js
 // ==/UserScript==
 
 (function() {
